@@ -8,7 +8,6 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://tiagow-san.github.io/nlw-esports-explorer/)
 
-
 ## 🛠 Tecnologias
 
 - HTML
